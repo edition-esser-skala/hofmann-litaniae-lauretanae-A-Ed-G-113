@@ -1,0 +1,18 @@
+composer:
+  last: Hofmann
+  first: Leopold
+title: Litaniæ lauretanæ
+genre: litany
+scoring: S, A, T, B (coro), 2 ob, 2 clno (C), timp (C–G), 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Ed
+    shelfmark: G 113
+    rism: 600038341
+    url: https://dommusikarchiv.martinus.at/site/werkverzeichnis/gallery/294.html
+    license: public domain
+    principal: true
+imslp:
+parts:
+  ottoni: Clarino I, II in C\\Timpani in C–G
