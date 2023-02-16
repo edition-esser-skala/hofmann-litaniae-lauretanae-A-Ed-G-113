@@ -13,6 +13,13 @@ sources:
     url: https://dommusikarchiv.martinus.at/site/werkverzeichnis/gallery/294.html
     license: public domain
     principal: true
+  B2:
+    siglum: D-NATk
+    shelfmark: NA/SP (H-84)
+    rism: 455040187
+    date: 1810–1840
+    url: https://mirador.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H84/
+    license: public domain
 imslp:
 parts:
   ottoni: Clarino I, II in C\\Timpani in C–G

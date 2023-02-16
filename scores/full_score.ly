@@ -5,10 +5,10 @@
 
 \book {
   \bookpart {
-    \section "1" "Litaniæ lauretanæ"
+    \section "Litaniæ lauretanæ"
     \addTocEntry
     \paper { indent = 3\cm }
-    \score { %\articulate
+    \score {
       <<
         \new StaffGroup <<
           \new GrandStaff <<
@@ -81,7 +81,7 @@
         \new FiguredBass { \LitaniaeBassFigures }
       >>
       \layout { }
-      \midi { \tempo 4 = 90 }
+      \midi { \tempo 4 = 80 } % 50 – 80 – 70 – 240
     }
   }
 }
