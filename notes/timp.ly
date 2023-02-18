@@ -54,7 +54,7 @@ LitaniaeTimpani = {
     \time 3/4 \tempoAgnus \newSpacingSection
       R2.*33 \noBreak %126
     R2.\fermata \bar "||"
-    \twotwotime \tempoMiserere \newSpacingSection R1*21 %148
+    \twotwotime \time 2/2 \tempoMiserere \newSpacingSection R1*21 %148
     c1\fE
     R1*6 %155
     g2 g4. g8
